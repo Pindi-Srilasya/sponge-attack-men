@@ -166,6 +166,7 @@ Example format:
   "timestamp": "2026-04-14T10:00:00"
 }
 
+---
 ## 7. Database Design
 
 The system stores generated metrics in a database table called **samples**.
