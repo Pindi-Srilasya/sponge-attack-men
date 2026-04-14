@@ -167,6 +167,7 @@ Example format:
 }
 
 ---
+
 ## 7. Database Design
 
 The system stores generated metrics in a database table called **samples**.
